@@ -1,6 +1,5 @@
 # CARD - HOVER EFFECT
 
-#### Link of the site I made : [ My Page - Helium ] (https://helium-one-page-site.vercel.app/)
 
 #### Techs that used : 
 * *HTML*
@@ -8,3 +7,5 @@
 
 ## Preview of the project :
 <br> 
+
+![card_hover_effect](https://user-images.githubusercontent.com/46025001/92686976-5dc87c80-f343-11ea-86aa-23b7f0377fc5.gif)
